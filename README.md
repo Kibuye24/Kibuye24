@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **PHP Beginner Documentation**
 
-- 🌱 I’m currently learning **PHP, Laravel PHP**
+- 🌱 I’m currently learning **TypeScript, React Native**
 
-- 👨‍💻 All of my projects are available at [coming soon - kiportfolio.com](coming soon - kiportfolio.com)
+- 👨‍💻 All of my projects are available at https://ki-portfolio.vercel.app
 
 - 📝 I regularly write articles on [coming soon - LLC](coming soon - LLC)
 
