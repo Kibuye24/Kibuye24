@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kibuye24" alt="kibuye24" /></a> </p>
 
-- 🔭 I’m currently working on **PHP Beginner Documentation**
+- 🔭 I’m currently working on **Clinica**
 
-- 🌱 I’m currently learning **TypeScript, React Native**
+- 🌱 I’m currently learning **TypeScript, Django**
 
 - 👨‍💻 All of my projects are available at https://ki-portfolio.vercel.app
 
 - 📝 I regularly write articles on [coming soon - LLC](coming soon - LLC)
 
-- 💬 Ask me about **React, NextJS, TailwindCSS, PHP**
+- 💬 Ask me about **React, NextJS, TailwindCSS, Python**
 
 - 📫 How to reach me **joshkibbz@gmail.com**
 
